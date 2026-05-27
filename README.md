@@ -1,14 +1,34 @@
-# ⏳ Exact Age Calculator
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e293b,70:0f766e,100:14b8a6&height=260&section=header&text=Exact%20Age%20Calculator&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ⏳ AI Birth Date
 
-Calculate exact age in Years, Months, Days, Hours, Minutes, and Seconds with a modern and responsive interface.
+<div align="center">
 
-<p align="center"> <img src="https://img.shields.io/badge/Frontend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge"/> </p> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e293b,70:0f766e,100:14b8a6&height=260&section=header&text=AI%20Birth%20Date&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+### 🤖 Smart AI Birth Date Generator
+
+Generate realistic birth dates, ages, and identities with a modern and responsive interface.
+
+🌐 Live Demo:  
+https://agent-6a16bb268d6ff8386c7d6164--ai-birth-date.netlify.app/
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge"/>
+
+</p>
+
+</div>
 
 # 🛠 Technologies Used
 
 | Technology   | Purpose                         |
 | ------------ | ------------------------------- |
 | PHP          | Frontend Rendering              |
-| JavaScript   | Backend Logic & Age Calculation |
+| JavaScript   | Backend Logic & AI Generation   |
 | Tailwind CSS | Styling & Responsive UI         |
