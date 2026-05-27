@@ -5,3 +5,22 @@
 Calculate exact age in Years, Months, Days, Hours, Minutes, and Seconds with a modern and responsive interface.
 
 <p align="center"> <img src="https://img.shields.io/badge/Frontend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge"/> </p> </div>
+
+
+
+✨ Features
+🎂 Exact age calculation
+⏱ Live age update in real-time
+📆 Calculate:
+Years
+Months
+Days
+Hours
+Minutes
+Seconds
+🌙 Dark & Light Mode
+📱 Fully Responsive Design
+⚡ Fast and lightweight
+🎨 Modern UI/UX with Tailwind CSS
+🔥 Smooth animations and transitions
+🧮 Accurate date calculations
