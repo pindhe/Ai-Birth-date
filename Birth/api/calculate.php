@@ -55,6 +55,7 @@ if ($birth > $now) {
 
 $interval = $birth->diff($now);
 $years = (int) $interval->y;
+$months = $years * 12 + (int) $interval->m;
 
 $diffSeconds = $now->getTimestamp() - $birth->getTimestamp();
 $days = intdiv($diffSeconds, 86400);
@@ -67,6 +68,7 @@ echo json_encode([
     'currentDate' => $now->format('c'),
     'age' => [
         'years' => $years,
+        'months' => $months,
         'days' => $days,
         'hours' => $hours,
         'minutes' => $minutes,
