@@ -12,5 +12,3 @@ Calculate exact age in Years, Months, Days, Hours, Minutes, and Seconds with a m
 | PHP          | Frontend Rendering              |
 | JavaScript   | Backend Logic & Age Calculation |
 | Tailwind CSS | Styling & Responsive UI         |
-| HTML5        | Structure                       |
-| CSS3         | Additional Styling              |
