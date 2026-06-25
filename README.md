@@ -6,8 +6,7 @@
 
 Generate realistic birth dates, ages, and identity profiles with a modern, fast, and fully responsive interface.
 
-🌐 Live Demo:
-https://agent-6a16bb268d6ff8386c7d6164--ai-birth-date.netlify.app/
+<p align="center"> <img src="Screenshot 2026-06-25 174758.png" width="900"/> </p>
 
 <p align="center">
 
