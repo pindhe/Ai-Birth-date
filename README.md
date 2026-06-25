@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="Qaahira-image.png" width="900"/>
+  <img src="Screenshot 2026-06-25 174758.png" width="900"/>
 </p> 
 
 ### 🤖 Smart AI Birth Date Generator
