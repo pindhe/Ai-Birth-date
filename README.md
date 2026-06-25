@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e293b,70:0f766e,100:14b8a6&height=260&section=header&text=AI%20Birth%20Date&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+  <img src="Qaahira-image.png" width="900"/>
+</p> 
 
 ### 🤖 Smart AI Birth Date Generator
 
